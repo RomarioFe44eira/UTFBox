@@ -24,7 +24,7 @@ Configure no cliente um mecanismo de verificação de novos arquivos no servidor
 
 Por fim, entregue a descrição de funcionamento do sistema.
 
-Faça uma concepção inicial do sistema  +++++
+Faça uma concepção inicial do sistema
 Projete a distribuição física da aplicação: represente a abstração do sistema quanto a sua arquitetura, pensando na divisão física (centralizada com 2, 3, 4, 5... divisões em camadas físicas, multidivididas ou híbridas)
 Elabore um desenho, contendo os elementos envolvidos no sistema, clientes, servidores. Identifique o papel e cada elemento envolvido.
 Especifique como a comunicação será feita entre os elementos: quais os tipos de sockets que podem ser utilizados?

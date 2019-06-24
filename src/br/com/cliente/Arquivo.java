@@ -21,6 +21,7 @@ public class Arquivo implements Serializable {
    private transient String ipDestino;
    private transient String portaDestino;
    private String diretorioDestino;
+  
    public String getNome() {
              return nome;
    }
